@@ -1,6 +1,6 @@
 # XLA_FinalProject
-Xử lý ảnh
 Digital Image Processing Project
+
 This project encompasses several key areas of digital image processing and machine learning using Python. The primary objectives include:
 
 1. Face Recognition
